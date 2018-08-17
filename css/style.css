@@ -51,6 +51,7 @@ tbody tr:nth-child(odd){
 }
 .table__primeiracoluna{
     padding:10px;
+    text-align: left;
 }
 
 .table__marker-green{
